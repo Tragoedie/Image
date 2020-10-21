@@ -1,0 +1,4 @@
+*.jpeg
+*.jpg
+don't_use/
+__pycache__/
